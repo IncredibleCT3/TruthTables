@@ -93,6 +93,4 @@ public class LogicalEquivalence {
             System.out.println();
         }
     }
-
-    public static
 }
